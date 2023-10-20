@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "worker-loader": "^3.0.8",
+    "worker-plugin": "^5.0.1"
   }
 }
